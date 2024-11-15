@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning microservices with gRPC in backend and React for Frontend<br>🎯 Goals: learning and understanding of how to solve problems as a programmers and think like them.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning microservices with gRPC in Backend and React for Frontend<br>🎯 Goals: learning and understanding of how to solve problems as a programmer and think like one.</p>
 
 ###
 
